@@ -8,7 +8,7 @@ I'm a proactive problem-solver, always keen to learn new technologies and contri
 
 ### 🛠️ My Skills & Technologies
 
-* **Languages:** Python, Java, C, RISK-V Assembly, Lia
+* **Languages:** Python, Java, C, RISK-V Assembly, Lua
 * **Frameworks/Libraries:** Qiskit
 * **Databases:**  MySQL
 * **Cloud & DevOps:** Docker (basics), Git, Linux 
