@@ -25,12 +25,12 @@ I'm currently diving deeper into C++ for high-performance system development. I'
 
 I am actively seeking my first professional opportunity as a **Junior Software Developer**. I'm particularly interested in roles that allow me to work on **challenging projects**, learn from **industry experts**, and contribute within a collaborative and growth-oriented environment.
 
-I am open to internship opportunities or entry-level positions where I can apply my skills and actively contribute to a team's success.
+I am open to internship opportunities or entry-level positions where I can apply my skills and actively contribute to impactful achievements.
 
 ---
 
 ### 🤝 Let's Connect!
 
-If my profile interests you or you have any questions/opportunities, feel free to reach out! I'm always happy to expand my network and discuss technology.
+If my profile interests you or you have any questions/opportunities, feel free to contact me via Linkedin. I'm always happy to expand my network and discuss technology.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonino-iemmolo-511705268) 
